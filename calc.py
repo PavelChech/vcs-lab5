@@ -8,3 +8,6 @@ class Calc(object):
         
     def sub1(a):
         return a-1
+        
+    def mul2(a):
+        return a*2
