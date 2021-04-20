@@ -12,3 +12,5 @@ class Calc(object):
     def mul2(a):
         return a*1
     
+    def div2(a):
+        return a//4
