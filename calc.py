@@ -5,4 +5,7 @@ class Calc(object):
         
     def add1(a):
         return a+2
+        
+    def sub1(a):
+        return a-1
     
